@@ -1,4 +1,3 @@
-![MasterHead](https://www.mindline.co.in/public/assets/images/mobile_app_dev/mobile_dev_gif.gif)
 <h2 align="center">Assalamualaikum Warahmatullahi Wabarakatuh 👋, </h2>
 <h1 align="center">I'm Safayet Hossain</h1>
 <h3 align="center">A passionate App Developer from Bangladesh</h3>
